@@ -1,0 +1,23 @@
+{
+  "name": "catandoando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMendoza70/CatandoAndo2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMendoza70/CatandoAndo2/issues"
+  },
+  "homepage": "https://github.com/LMendoza70/CatandoAndo2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
